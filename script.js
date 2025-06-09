@@ -6,7 +6,7 @@ const name = document.getElementById("name");
 function btnfunction() {
 
 if (age.value=="" || name.value==""){
-	alert("Please enter valid details.");
+	alert("Please enter valid details");
 	return;
 }
 
